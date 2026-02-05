@@ -1,0 +1,3 @@
+Estudiar Git
+Terminar la práctica
+Aprobar Despliegue
